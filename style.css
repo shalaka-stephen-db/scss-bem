@@ -1,0 +1,28 @@
+body {
+  background-color: lightseagreen;
+}
+
+.card {
+  margin: 50px auto;
+  text-align: center;
+  padding: 20px 10px;
+  width: 400px;
+  height: 450px;
+  box-shadow: 0px 10px 30px -10px gray;
+  border-radius: 5px;
+}
+.card--dark {
+  background-color: honeydew;
+}
+.card--light {
+  background-color: lightgrey;
+}
+.card_image {
+  border-radius: 5px;
+}
+.card_title {
+  font-size: xx-large;
+}
+.card_body {
+  font-weight: bold;
+}

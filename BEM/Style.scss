@@ -1,0 +1,24 @@
+.button {
+  display:inline-block;
+  margin:50px auto;
+  padding: 20px ;
+  height:30px;
+  border:1px solid black;
+  font-size: 13px;
+  font-weight: bold;
+  border-radius: 5px;
+  
+  &--Success{
+    color:White;
+    background-color: green;
+    
+    
+  }
+  &--Danger{
+    color:red;
+    background-color:White;
+
+   
+    
+  }
+}
